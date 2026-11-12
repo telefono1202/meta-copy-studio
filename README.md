@@ -1,5 +1,15 @@
 # 留白 Copy Studio · 單機版
 
+## GitHub Pages 公開網頁
+
+儲存庫已在 main 根目錄提供 index.html 與 .nojekyll，無需建置。
+
+在 GitHub 的 Settings → Pages 中，選擇 Deploy from a branch、main、/(root)，然後 Save。待 GitHub Pages 建置完成後，以頁面顯示的網址開啟。
+
+此儲存庫的預期 Pages 網址為 https://telefono1202.github.io/meta-copy-studio/ 。只有啟用並完成部署後才可使用。私人儲存庫是否支援 Pages 取決於 GitHub 方案；若目前方案不支援，需由擁有者決定升級方案或將儲存庫改為公開。
+
+網站內容為靜態文案工具；不需要 GitHub Token 或其他密鑰。離線模板與規則檢測可直接使用；Ollama 仍需使用者自己的本機服務與瀏覽器連線權限。
+
 下載 index.html，使用 Chrome、Edge、Safari 或 Firefox 開啟即可。無需安裝套件、帳號或 API Key。所有樣式與程式內嵌，離線可用，不依賴 CDN。
 
 ## 使用
